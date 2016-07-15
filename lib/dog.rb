@@ -6,6 +6,7 @@
 # TODO: improve this class
 # TODO: improve this class
 # TODO: improve this class
+# TODO: improve this class
 class Dog
   def initialize(name)
     @name = name
