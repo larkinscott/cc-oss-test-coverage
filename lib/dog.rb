@@ -71,4 +71,12 @@ class Dog
   def bad(baba = baba)
     puts baba
   end
+
+  def untested
+    puts bad "foo"
+
+  def also_untested
+    puts bad "foo"
+  end
+  end
 end
