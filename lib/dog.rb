@@ -17,6 +17,10 @@ class Dog
     puts baba
   end
 
+  def more_bad(baba = baba)
+    puts baba
+  end
+  
   def untested
     puts bad "foo"
   end
