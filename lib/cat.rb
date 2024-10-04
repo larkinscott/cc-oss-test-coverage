@@ -30,3 +30,5 @@ class Cat
     puts bad "foo"
   end
 end
+
+
