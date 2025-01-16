@@ -18,7 +18,7 @@ class Cat
     9
   end
 
-def bad(baba = nil)
+  def bad(baba = nil)
     puts baba
   end
 
@@ -28,5 +28,9 @@ def bad(baba = nil)
 
   def also_untested
     puts bad "foo"
+  end
+
+  def something_else
+    puts "something else"
   end
 end
