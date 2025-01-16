@@ -18,7 +18,7 @@ class Cat
     9
   end
 
-  def bad(baba = baba)
+def bad(baba = nil)
     puts baba
   end
 
@@ -30,6 +30,3 @@ class Cat
     puts bad "foo"
   end
 end
-
-
-
