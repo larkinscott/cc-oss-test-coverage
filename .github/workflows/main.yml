@@ -38,4 +38,7 @@ jobs:
       - uses: qltysh/qlty-action/coverage@main
         with:
           coverage-token: ${{ secrets.QLTY_COVERAGE_TOKEN }}
-          files: coverage/coverage.json
+          files: coverage/.resultset.json
+          print-coverage: true
+          print-json-coverage: true
+          #strip-prefix: "/home/runner/work/cc-oss-test-coverage/cc-oss-test-coverage/"
