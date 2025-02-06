@@ -24,10 +24,6 @@ class Dog
       "#{@name}!!!"
   end
 
-  def name(a, b, c, d, e, f, g)
-      "#{@name}!!!"
-  end
-
   # This method is NOT currently covered by a test
   def age_in_dog_years
     45
