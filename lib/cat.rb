@@ -8,6 +8,30 @@ class Cat
     "#{@name}!!!"
   end
 
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
+  def name(a, b, c, d, e, f, g)
+      "#{@name}!!!"
+  end
+
   # This method is currently covered by a test
   def speak
     "meow"
