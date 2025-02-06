@@ -3,7 +3,27 @@ def initialize(name)
     @name = name
 end
 
-def name
+def name(a, b, c, d, e, f, g)
+    "#{@name}!!!"
+end
+
+def name(a, b, c, d, e, f, g)
+    "#{@name}!!!"
+end
+
+def name(a, b, c, d, e, f, g)
+    "#{@name}!!!"
+end
+
+def name(a, b, c, d, e, f, g)
+    "#{@name}!!!"
+end
+
+def name(a, b, c, d, e, f, g)
+    "#{@name}!!!"
+end
+
+def name(a, b, c, d, e, f, g)
     "#{@name}!!!"
 end
 
@@ -19,4 +39,3 @@ def migrate
     "flying south"
 end
 end
-
