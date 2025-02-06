@@ -37,7 +37,7 @@ def more_bad(baba = nil)
     puts baba
   end
 
-  def untested(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p)
+  def untested
     puts bad "foo"
   end
 
