@@ -24,8 +24,14 @@ class Cat
       "#{@name}!!!"
   end
 
-  def name(a, b, c, d, e, f, g)
-      "#{@name}!!!"
+  def name
+
+
+
+
+
+
+                          "#{@name}!!!"
   end
 
   # This method is currently covered by a test
