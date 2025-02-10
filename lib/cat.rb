@@ -25,7 +25,13 @@ class Cat
   end
 
   def name
-      "#{@name}!!!"
+
+
+
+
+
+
+                          "#{@name}!!!"
   end
 
   # This method is currently covered by a test
