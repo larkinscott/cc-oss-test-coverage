@@ -25,7 +25,7 @@ class Dog
   end
 
   # This method is NOT currently covered by a test
-  def age_in_dog_years(a, b, c, d, e, f, g, h)
+  def age_in_dog_years
     45
   end
 
