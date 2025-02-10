@@ -24,7 +24,7 @@ class Cat
       "#{@name}!!!"
   end
 
-  def name(a, b, c, d, e, f, g)
+  def name
       "#{@name}!!!"
   end
 
