@@ -24,10 +24,6 @@ class Dog
       "#{@name}!!!"
   end
 
-  def name(a, b, c, d, e, f, g)
-      "#{@name}!!!"
-  end
-
   # This method is NOT currently covered by a test
   def age_in_dog_years
     45
@@ -41,7 +37,7 @@ def more_bad(baba = nil)
     puts baba
   end
 
-  def untested
+  def untested(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p)
     puts bad "foo"
   end
 
