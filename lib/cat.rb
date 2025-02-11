@@ -34,8 +34,7 @@ class Cat
                           "#{@name}!!!"
   end
 
-  # This method is currently covered by a test
-  def speak
+  def speak(a, b, c, d, e, f, g)
     "meow"
   end
 
