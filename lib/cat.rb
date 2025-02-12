@@ -47,7 +47,7 @@ class Cat
     puts baba
   end
 
-  def untested
+  def untested(a, b, c, d, e, f, g, h, i, j)
     puts bad "foo"
   end
 
